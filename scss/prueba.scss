@@ -98,11 +98,11 @@ footer{
 }
 
 @media screen and (max-width: 1000px) {
-    nav{
+    .navbar{
         display: flex;
         flex-direction: column;
         width: auto;
-    }
+        }
 }
 
 
