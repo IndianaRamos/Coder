@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/pruebacss.css">
+    <title>Contacto</title>
+</head>
+<body class="bodyPaginas">
+    <header>
+        <a href= "./index.html">
+        <img class=logo src="./Img/Logo.png" alt="logo página">
+        </a> <!--volver al index-->
+    </header>
+    <form>
+        <fieldset><legend>Información personal</legend>
+            Nombre <input type="text" name="Nombre">
+            Apellido <input type="text" name="Apellido">
+            Sexo <select name="Sexo">
+                <option value="Femenino">Femenino</option>
+                <option value="Masculino">Masculino</option>
+                <option value="Otro">Otro</option>
+            </select>
+            Mail <input type="email" name="Mail">
+            Teléfono <input type="number" name="Tel">
+        </fieldset>
+        <fieldset><legend>Envianos tu duda, sugerencia o reclamo</legend>
+            <input type="text">
+        </fieldset>
+        ¿Querés suscribirte a las novedades, descuentos y más? 
+        <label>Si</label><input type="radio" name="Suscribir" value="1">
+        <label>No</label><input type="radio" name="Suscribir" value="0">
+        <div>Enviar formulario</div> <input type="submit">
+        <div>Limpiar formulario</div> <input type="reset">
+    </form>
+</body>
+</html>
