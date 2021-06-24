@@ -6,7 +6,7 @@ body {
   margin: 10px;
   padding: 5px;
   font-size: 18px;
-  background-color: #f8f29f; }
+  background-color: white; }
 
 /*TEXTO ABAJO DEL LOGO EN CADA PAGINA*/
 .bodyPaginas {
@@ -29,7 +29,7 @@ header {
 .logo {
   margin: 5px;
   width: 12%;
-  height: 12%;
+  height: 75%;
   border-radius: 85%;
   float: left;
   transition: all 5s;
