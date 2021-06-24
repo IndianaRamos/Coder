@@ -74,11 +74,10 @@ footer {
   color: black;
   text-align: center; }
 
-@media screen and (max-width: 1000px) {
-  .navbar {
-    display: flex;
-    flex-direction: column;
-    width: auto; } }
+@media screen and (max-width: 800px) {
+  .logo {
+    width: 7,2%;
+    height: 45%; } }
 
 /*html Canchas Adheridas*/
 .canchasAdheridas {
