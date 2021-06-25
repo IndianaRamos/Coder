@@ -1,7 +1,7 @@
 {
   "name": "indiana",
   "version": "1.0.0",
-  "description": "",
+  "description": "Buscador y reservas de canchas de fútbol en Rosario, Santa Fe, Argentina",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "watch-css": "nodemon -e scss -x \"npm run build-css\""
 
   },
-  "author": "",
+  "author": "Indiana Ramos",
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^6.0.0",
