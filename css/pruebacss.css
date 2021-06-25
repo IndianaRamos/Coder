@@ -79,29 +79,14 @@ footer {
     width: 7,2%;
     height: 45%; } }
 
-/*html Canchas Adheridas*/
+/*html CANCHAS ADHERIDAS*/
 .canchasAdheridas {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  padding: 10px;
-  display: grid;
-  grid-gap: 15px;
-  grid-template-columns: 3fr 3fr;
-  grid-template-rows: 3fr 3fr;
-  grid-template-areas: "canchasAdheridas--cancha5 canchasAdheridas--cancha11" "canchasAdheridas--cancha7 canchasAdheridas--canchaSala";
-  color: black; }
-  .canchasAdheridas div {
-    margin: 10px;
-    width: 25%;
-    text-align: center;
-    line-height: auto;
-    font-size: 20px;
-    border: 2px solid black; }
-    .canchasAdheridas div ul {
-      list-style-type: none; }
-  .canchasAdheridas h3 {
-    background-color: green; }
+  width: 60%;
+  height: 60%; }
+  .canchasAdheridas h5 {
+    background-color: white; }
+  .canchasAdheridas p {
+    background-color: white; }
 
 /*html DESCUENTOS*/
 .bancos {
