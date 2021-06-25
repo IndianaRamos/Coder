@@ -114,11 +114,10 @@ footer {
 
 /*html NOSOTROS*/
 .htmlNosotros {
-  height: 300px;
-  width: 40%;
+  height: 390px;
+  width: 55%;
   text-align: justify;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQK8-m0rwsX_Hs15NMWvXxe02HBKqssrn9w&usqp=CAU);
-  background-repeat: no-repeat;
+  background-image: url(/Img/Hinchada.jpg);
   background-size: 100%; }
 
 /*html SUMATE*/
